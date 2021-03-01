@@ -1,4 +1,4 @@
-module hzsun.com/easyconnect/smq
+module github.com/GoneGo1ng/smq
 
 go 1.14
 

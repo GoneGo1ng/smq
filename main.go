@@ -4,7 +4,7 @@ import (
 	"github.com/Allenxuxu/gev"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"hzsun.com/easyconnect/smq/broker"
+	"github.com/GoneGo1ng/smq/broker"
 )
 
 func main() {

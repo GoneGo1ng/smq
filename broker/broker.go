@@ -6,7 +6,7 @@ import (
 	"github.com/aristanetworks/goarista/monotime"
 	"github.com/eclipse/paho.mqtt.golang/packets"
 	"go.uber.org/zap"
-	"hzsun.com/easyconnect/smq/manager/subscribe"
+	"github.com/GoneGo1ng/smq/manager/subscribe"
 	"sync"
 )
 
